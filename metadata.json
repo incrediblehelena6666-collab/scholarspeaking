@@ -1,0 +1,5 @@
+{
+  "name": "ScholarVoice",
+  "description": "An AI-powered academic paper reader that converts English literature into spoken Chinese audio in Literal or Podcast modes.",
+  "requestFramePermissions": []
+}
